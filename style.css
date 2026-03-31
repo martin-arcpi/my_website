@@ -1,3 +1,18 @@
-body {
-    background-color: papayawhip;
+header {
+    background-color: #212529;
+    color: white;
+    text-align: center;
 }
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    background-color: #F8F8F8F8;
+    color: #333333;
+}
+
+footer {
+    background-color: #212529;
+}
+
